@@ -1,87 +1,134 @@
-MyWebpage
+# 🌐 MyWebpage
 
-A simple multi-page website built using HTML and CSS that showcases different categories of cars. The project was created to practice front-end web development fundamentals, including website structure, navigation, styling, and organizing content across multiple pages.
+## **📖 Description**
 
-Features
-Home page with navigation
-Multiple car categories
-Individual pages for different categories
-Responsive layout (where supported)
-Images and descriptions for vehicles
-Clean and easy-to-use interface
-Technologies Used
-HTML5
-CSS3
-Visual Studio Code
-Project Structure
+**MyWebpage** is a simple personal portfolio website built using **HTML5** and **CSS3**. It serves as an introduction to who I am, my interests, and some of my work in Roblox game development.
+
+The website consists of two interconnected webpages that demonstrate the fundamentals of front-end web development, including page navigation, layout design, styling, and the use of multimedia.
+
+---
+
+# **✨ Features**
+
+- ✅ Personal introduction page
+- ✅ About Me section
+- ✅ Interests section
+- ✅ Embedded image
+- ✅ Navigation between webpages
+- ✅ Roblox projects page
+- ✅ Links to Roblox work
+- ✅ Modern dark-themed design
+
+---
+
+# **🛠 Technologies Used**
+
+- **HTML5**
+- **CSS3**
+- **Visual Studio Code**
+- **Git**
+- **GitHub**
+
+---
+
+# **📁 Project Structure**
+
+```text
 MyWebpage/
 │
 ├── index.html
+├── about.html
 ├── style.css
 ├── images/
-├── Categories/
-│   ├── ...
+│   └── (Website images)
 │
 └── README.md
+```
 
-(The exact folder names may differ depending on your repository.)
+---
 
-How to Run the Project
-Method 1 (Recommended)
-Download or clone the repository.
+# **🚀 How to Run the Project**
+
+## **Method 1 – Open in a Browser**
+
+1. Clone or download this repository.
+
+```bash
 git clone https://github.com/minax811/Mywebpage.git
-Open the project folder.
-Open index.html in any modern web browser such as:
-Google Chrome
-Microsoft Edge
-Firefox
+```
 
-No installation or additional software is required.
+2. Open the project folder.
 
-Method 2
+3. Double-click **index.html** to launch the website in your preferred web browser.
 
-If you have Visual Studio Code installed:
+Compatible browsers include:
+- Google Chrome
+- Microsoft Edge
+- Mozilla Firefox
 
-Open the project folder.
-Install the Live Server extension.
-Right-click index.html.
-Select Open with Live Server.
+No additional software is required.
 
-This will automatically launch the website and refresh whenever changes are saved.
+---
 
-How to Use
-Open the website.
-Navigate through the menu to explore different sections.
-Select a car category to view its contents.
-Browse the information and images available on each page.
-Return to the home page using the navigation bar.
-Purpose
+## **Method 2 – Using Visual Studio Code**
 
-This project was created as a learning exercise to improve skills in:
+1. Open the project folder in **Visual Studio Code**.
+2. Install the **Live Server** extension (optional).
+3. Right-click **index.html**.
+4. Select **Open with Live Server**.
 
-HTML page structure
-CSS styling
-Website navigation
-Organizing a multi-page website
-Managing images and assets
-Using Git and GitHub for version control
-Future Improvements
+This will launch the website locally and automatically refresh the page whenever changes are saved.
 
-Possible future updates include:
+---
 
-Adding JavaScript for interactivity
-Search functionality
-Car comparison feature
-Dark mode
-Improved responsive design
-Additional vehicle categories
-Better animations and transitions
-Author
+# **📚 How to Use**
 
-Minaam Zafar
+1. Open **index.html**.
+2. Read the introduction and learn about me.
+3. Scroll to the **Interests** section.
+4. Click **"My work on Roblox"** to navigate to the second webpage.
+5. View my latest Roblox project and asset pack information.
+6. Use the **Back to About Me** link to return to the homepage.
 
-GitHub: https://github.com/minax811
+---
 
-License
+# **🎯 Purpose of the Project**
 
-This project is for educational purposes.
+The goal of this project was to practice and improve my skills in:
+
+- HTML webpage structure
+- CSS styling and layouts
+- Creating multi-page websites
+- Hyperlinks and webpage navigation
+- Organising project files
+- Publishing websites using GitHub Pages
+
+---
+
+# **🔮 Future Improvements**
+
+Some features I plan to add in the future include:
+
+- Add more information about my projects.
+- Create a dedicated projects gallery.
+- Improve responsiveness for mobile devices.
+- Add CSS animations and transitions.
+- Include a contact page.
+- Add JavaScript to make the website more interactive.
+
+---
+
+# **👨‍💻 Author**
+
+**Minaam Zafar**
+
+GitHub: **https://github.com/minax811**
+
+---
+
+# **📄 License**
+
+This project was created for **educational purposes** and as part of learning front-end web development.
+
+# AI Usage
+Ai was used to make this readme
