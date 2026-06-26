@@ -1,37 +1,35 @@
-# 🌐 MyWebpage
+# My Website fr
 
-## **📖 Description**
+## **Summary**
 
-**MyWebpage** is a simple personal portfolio website built using **HTML5** and **CSS3**. It serves as an introduction to who I am, my interests, and some of my work in Roblox game development.
+**MyWebpage** is a simple personal portfolio website built using HTML5 and CSS3 and it was coded in VS code. It serves as an introduction to who I am, my interests, and some of my work in Roblox game development.
 
-The website consists of two interconnected webpages that demonstrate the fundamentals of front-end web development, including page navigation, layout design, styling, and the use of multimedia.
-
----
-
-# **✨ Features**
-
-- ✅ Personal introduction page
-- ✅ About Me section
-- ✅ Interests section
-- ✅ Embedded image
-- ✅ Navigation between webpages
-- ✅ Roblox projects page
-- ✅ Links to Roblox work
-- ✅ Modern dark-themed design
+The website consists of two interconnected webpages that you can go back and fourth between It has a decent layout design, styling, and the use of multimedia.
 
 ---
 
-# **🛠 Technologies Used**
+# **Features**
 
-- **HTML5**
-- **CSS3**
-- **Visual Studio Code**
-- **Git**
-- **GitHub**
+-  Introduction Page about me
+-  Tells about my interest and passion
+-  Got a cool image
+-  2 Webpages are connected
+-  Roblox projects page
+-  Links to Roblox work
+-  Modern dark-themed design
 
 ---
 
-# **📁 Project Structure**
+# **Software/Languages Used**
+
+-  HTML5
+-  CSS3 for designing
+-  Visual Studio Code for coding
+-  GitHub for hosting that was cool
+
+---
+
+# **Project File Structure**
 
 ```text
 MyWebpage/
@@ -47,19 +45,17 @@ MyWebpage/
 
 ---
 
-# **🚀 How to Run the Project**
+# **How to Run the Project**
 
 ## **Method 1 – Open in a Browser**
 
-1. Clone or download this repository.
+1. download this repository.
 
-```bash
-git clone https://github.com/minax811/Mywebpage.git
-```
+2. Unzip the file
 
-2. Open the project folder.
+3. Open the project folder.
 
-3. Double-click **index.html** to launch the website in your preferred web browser.
+4. Double-click **index.html** to launch the website in your preferred web browser.
 
 Compatible browsers include:
 - Google Chrome
@@ -81,7 +77,7 @@ This will launch the website locally and automatically refresh the page whenever
 
 ---
 
-# **📚 How to Use**
+# **How to Use**
 
 1. Open **index.html**.
 2. Read the introduction and learn about me.
@@ -92,7 +88,7 @@ This will launch the website locally and automatically refresh the page whenever
 
 ---
 
-# **🎯 Purpose of the Project**
+# **Purpose of the Project**
 
 The goal of this project was to practice and improve my skills in:
 
@@ -100,16 +96,18 @@ The goal of this project was to practice and improve my skills in:
 - CSS styling and layouts
 - Creating multi-page websites
 - Hyperlinks and webpage navigation
-- Organising project files
+- Organising project files(thought i ended up removing the folder at the end)
 - Publishing websites using GitHub Pages
+- To have a cool resume about me page
 
 ---
 
-# **🔮 Future Improvements**
+# **Future Improvements**
 
 Some features I plan to add in the future include:
 
-- Add more information about my projects.
+- I want to add more projects to this so I can use it as my offical resume
+-  Add more information about my projects.
 - Create a dedicated projects gallery.
 - Improve responsiveness for mobile devices.
 - Add CSS animations and transitions.
@@ -118,17 +116,3 @@ Some features I plan to add in the future include:
 
 ---
 
-# **👨‍💻 Author**
-
-**Minaam Zafar**
-
-GitHub: **https://github.com/minax811**
-
----
-
-# **📄 License**
-
-This project was created for **educational purposes** and as part of learning front-end web development.
-
-# AI Usage
-Ai was used to make this readme
