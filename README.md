@@ -17,6 +17,7 @@ The website consists of two interconnected webpages that you can go back and fou
 -  Roblox projects page
 -  Links to Roblox work
 -  Modern dark-themed design
+-  got home and return button
 
 ---
 
@@ -25,7 +26,7 @@ The website consists of two interconnected webpages that you can go back and fou
 -  HTML5
 -  CSS3 for designing
 -  Visual Studio Code for coding
--  GitHub for hosting that was cool
+-  GitHub for hosting
 
 ---
 
@@ -55,7 +56,7 @@ MyWebpage/
 
 3. Open the project folder.
 
-4. Double-click **index.html** to launch the website in your preferred web browser.
+4. Double-click index.html to launch the website in your preferred web browser.
 
 Compatible browsers include:
 - Google Chrome
@@ -90,16 +91,7 @@ This will launch the website locally and automatically refresh the page whenever
 
 # **Purpose of the Project**
 
-The goal of this project was to practice and improve my skills in:
-
-- HTML webpage structure
-- CSS styling and layouts
-- Creating multi-page websites
-- Hyperlinks and webpage navigation
-- Organising project files(thought i ended up removing the folder at the end)
-- Publishing websites using GitHub Pages
-- To have a cool resume about me page
-
+The goal of this project was to practice and improve my skills in HTML, css and frontend web design
 ---
 
 # **Future Improvements**
